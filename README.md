@@ -85,7 +85,7 @@ The app runs at **http://localhost:3000**
 ## API Documentation (Swagger)
 
 After starting the server, visit:  
-👉 **http://localhost:3000/api-docs**
+**http://localhost:3000/api-docs**
 
 You can explore and test all API endpoints interactively.
 
