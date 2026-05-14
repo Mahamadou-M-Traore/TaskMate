@@ -1,4 +1,4 @@
-# ✦ TaskMate — Personal Task Manager
+# ✦ TaskMate - Personal Task Manager
 
 A full-stack web application for managing personal tasks.  
 Built with **Node.js + Express**, **SQLite**, and **Vanilla JavaScript**.
@@ -7,12 +7,12 @@ Built with **Node.js + Express**, **SQLite**, and **Vanilla JavaScript**.
 
 ## Features
 
-- ✅ Create, Read, Update, Delete tasks (full CRUD)
-- 🗂 Categorize tasks: Work · Personal · School · General  
-- 🔍 Filter tasks by category and/or status  
-- ✔️ Mark tasks as done / pending with one click  
-- 📄 Interactive API documentation via Swagger UI  
-- 🧪 Unit-tested business logic  
+-  Create, Read, Update, Delete tasks (full CRUD)
+-  Categorize tasks: Work · Personal · School · General  
+-  Filter tasks by category and/or status  
+-  Mark tasks as done / pending with one click  
+-  Interactive API documentation via Swagger UI  
+-  Unit-tested business logic  
 
 ---
 
@@ -170,5 +170,5 @@ Commits follow a simple convention:
 
 ## Author
 
-**Your Name**  
+**Mahamadou Massaman Traore**  
 Istanbul Arel University — System Analysis and Design, Spring 2026
