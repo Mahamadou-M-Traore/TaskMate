@@ -1,2 +1,0 @@
-# TaskMate
-Personal Task Manager
